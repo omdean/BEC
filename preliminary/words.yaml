@@ -1,30 +1,14 @@
-# Day one
 - 
-  -
-    word: advert
-    partOfSpeech: ['noun', 'verb']
-    meaning:
-      noun: ['广告']
-      verb: ['注意、留意']
-    roots: null
-    prefix: null
-    affix: 'ad'
-
+  - advert
+  - noun,广告
+  - verb,注意；留意
 -
-  -
-    word: confectionary
-    partOfSpeech: ['noun', 'adjective']
-    meaning:
-      noun: ['糖食', '糖果店', '甜食店']
-      adjective: ['甜食的', '糖果行业的']
-    roots: null
-    affix: null
-  -
-    word: consultant
-    partOfSpeech: ['noun']
-    meaning:
-      noun: ['顾问', '会诊医师']
-    roots: 'consult'
-    prefix: null
-    affix: 'ant'
-
+  - confectionary
+  - noun,糖食；糖果店；甜食店
+  - adjective,甜食的；糖果行业的
+-
+  - consultant
+  - noun,顾问；会诊医师
+-
+  - consultancy
+  - noun,咨询公司；专家咨询
